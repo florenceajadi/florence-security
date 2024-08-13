@@ -4,13 +4,11 @@
 
 - <b>Azure</b>
   - [Precursor to Security Operations (Failed Auth, Log Observations)](https://github.com/florenceajadi/pre-to-security-operations)
-  - [osTicket: Post-Installation Configuration](https://github.com/florenceajadi/post-install-configu)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/florenceajadi/florenceajadi1/ticket-lifecycle)
- 
+
 
   
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/florenceajadi/configure-ad)
+- <b>Logging & Monitoring</b>
+  - [Geo IP Data Ingestion + Log Analytics and Microsoft Sentinel (SIEM) Setup](https://github.com/florenceajadi/geo-ip-data-ingestion-log-analytics-sentinel-setup)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/florenceajadi/florenceajadi1/azure-network-protocols)
   - [Network Files Shares and Permissions](https://github.com/florenceajadi/network-files-shares-permissions)
 
