@@ -10,7 +10,7 @@
 - <b>Logging & Monitoring</b>
   - [Geo IP Data Ingestion + Log Analytics and Microsoft Sentinel (SIEM) Setup](https://github.com/florenceajadi/geo-ip-data-ingestion-log-analytics-sentinel-setup)
   - [Enable Microsoft Defender for Cloud](https://github.com/florenceajadi/enable-microsoft-defender-for-cloud)
-  - [Network Files Shares and Permissions](https://github.com/florenceajadi/network-files-shares-permissions)
+  - [Enable Log Collection for VMs and NSGs](https://github.com/florenceajadi/enable-log-collection-for-vms-and-nsgs)
 
 
 
