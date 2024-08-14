@@ -9,7 +9,7 @@
   
 - <b>Logging & Monitoring</b>
   - [Geo IP Data Ingestion + Log Analytics and Microsoft Sentinel (SIEM) Setup](https://github.com/florenceajadi/geo-ip-data-ingestion-log-analytics-sentinel-setup)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/florenceajadi/florenceajadi1/azure-network-protocols)
+  - [Enable Microsoft Defender for Cloud](https://github.com/florenceajadi/enable-microsoft-defender-for-cloud)
   - [Network Files Shares and Permissions](https://github.com/florenceajadi/network-files-shares-permissions)
 
 
