@@ -10,7 +10,7 @@
 - <b>Logging & Monitoring</b>
   - [Geo IP Data Ingestion + Log Analytics and Microsoft Sentinel (SIEM) Setup](https://github.com/florenceajadi/geo-ip-data-ingestion-log-analytics-sentinel-setup)
   - [Enable Microsoft Defender for Cloud](https://github.com/florenceajadi/enable-microsoft-defender-for-cloud)
-  - [Enable Log Collection for VMs and NSGs](https://github.com/florenceajadi/enable-log-collection-for-vms-and-nsgs)
+  - [KQL](https://github.com/florenceajadi/kql)
 
 
 
@@ -26,7 +26,7 @@
   - [Configuring Domain Pswd and Account Lockout Policies With Group Policy](https://github.com/florenceajadi/domain-pswds-and-account-lockout)
   - [Deploying Fine Grained Pswd Policies](https://github.com/florenceajadi/deploying-fine-grained-pswd-policies)
   - [Configuring Windows Firewall with Group Policy](https://github.com/florenceajadi/configuring-windows-firewall-with-group-policy)
-
++
 <h2>📱Connect with me:</h2>
 
 [<img align="left" alt="Flo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
