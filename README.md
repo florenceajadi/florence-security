@@ -11,6 +11,7 @@
   - [Geo IP Data Ingestion + Log Analytics and Microsoft Sentinel (SIEM) Setup](https://github.com/florenceajadi/geo-ip-data-ingestion-log-analytics-sentinel-setup)
   - [Enable Microsoft Defender for Cloud](https://github.com/florenceajadi/enable-microsoft-defender-for-cloud)
   - [KQL](https://github.com/florenceajadi/kql)
+  - [More Azure KQL](https://github.com/florenceajadi/more-azure-kql)
 
 
 
