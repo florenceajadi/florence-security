@@ -12,6 +12,7 @@
   - [Enable Microsoft Defender for Cloud](https://github.com/florenceajadi/enable-microsoft-defender-for-cloud)
   - [KQL](https://github.com/florenceajadi/kql)
   -  [Tenant Level Logging](https://github.com/florenceajadi/tenant-level-logging)
+  -  [Subscription Level Logging](https://github.com/florenceajadi/subscription-level-logging)
   - [fix](https://github.com/florenceajadi/more-azure-kql)
 
 
