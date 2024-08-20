@@ -13,6 +13,7 @@
   - [KQL](https://github.com/florenceajadi/kql)
   -  [Tenant Level Logging](https://github.com/florenceajadi/tenant-level-logging)
   -  [Subscription Level Logging](https://github.com/florenceajadi/subscription-level-logging)
+  -  [Resource Level Logging](https://github.com/florenceajadi/resource-level-logging)
   - [fix](https://github.com/florenceajadi/more-azure-kql)
 
 
