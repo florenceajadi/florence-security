@@ -19,7 +19,7 @@
 - <b>Microsoft Sentinel (SIEM)</b>
   - [World Maps Construction](https://github.com/florenceajadi/world-maps-construction)
   - [Manual Alert](https://github.com/florenceajadi/manual-alert)
- 
+  - [Automatic Alert](https://github.com/florenceajadi/automatic-alert)
 
   
 
