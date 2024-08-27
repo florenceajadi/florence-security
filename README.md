@@ -21,7 +21,7 @@
   - [Manual Alert](https://github.com/florenceajadi/manual-alert)
   - [Automatic Alert](https://github.com/florenceajadi/automatic-alert)
   - [Understanding and Triggering Sentinel](https://github.com/florenceajadi/understanding-and-triggering-sentinel)
-
+  - [Understanding Logs](https://github.com/florenceajadi/understanding-logs)
   
 
 +
