@@ -23,6 +23,7 @@
   - [Understanding and Triggering Sentinel](https://github.com/florenceajadi/understanding-and-triggering-sentinel)
   - [Understanding Logs](https://github.com/florenceajadi/understanding-logs)
   -  [Running Insecure Environment for 24hrs and Capturing Analytics](https://github.com/florenceajadi/24hrs-insecure-environment-and-capturing-analytics)
+  -  [Incident 1: Brute Force Success (Windows)](https://github.com/florenceajadi/windows-brute-force-success)
   
 
 +
